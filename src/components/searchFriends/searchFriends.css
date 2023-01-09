@@ -1,0 +1,49 @@
+.searchFriends{
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    margin-left: 10rem;
+}
+
+.searchFriends-container{
+    margin-top: 20px;
+    margin-left: 1rem;
+}
+
+.searchFriends-container img{
+    width: 205px;
+}
+
+.searchFriends-container{
+    border-bottom: 1px solid rgb(255, 122, 122);
+    width: 400px;
+    padding: 10px 10px;
+}
+
+.searchFriends-username-alias button{
+    border: none;
+    background-color: transparent;
+}
+
+.searchFriends-username-alias img{
+    position: absolute;
+    margin-left: 22rem;
+    margin-top: -9rem;
+    width: 24px;
+    cursor: pointer;
+}
+
+.searchFriends-username-alias p{
+    position: relative;
+    margin-top: 1rem;
+    margin-left: .5rem;
+    
+}
+.follows-followers p{
+    font-size: 12px;
+}
+
+.follows-followers{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: .5rem;
+}

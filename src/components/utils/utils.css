@@ -1,0 +1,15 @@
+.registerDone , .registerError, .enterError{
+    color: white;
+    padding: 5px 5px;
+}
+.registerDone{
+    background-color: rgba(242,107,147,0.74);
+}
+
+.registerError{
+    background-color: rgba(127, 107, 242, 0.74);
+}
+
+.enterError{
+    background-color: rgb(214, 74, 74);
+}
